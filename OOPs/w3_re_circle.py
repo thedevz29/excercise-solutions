@@ -1,4 +1,4 @@
-#Question is mentioned below
+#The question from w3 resource is mentioned below
 '''Write a Python program to create a class representing a Circle. 
 Include methods to calculate its area and perimeter.'''
 
